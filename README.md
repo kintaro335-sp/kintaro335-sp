@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, AI, Systems
 - 🌱 I’m currently learning React JS, Javascript, typescript, python
 - 💞️ I’m looking to collaborate on webapps and APIs
-- 📫 How to reach me kintaroponce.uni@gmail.com
+- 📫 How to reach me kintaro@geekstudio.dev
 
 <!---
 kintaro335-sp/kintaro335-sp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
